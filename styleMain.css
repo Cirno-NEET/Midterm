@@ -1,0 +1,156 @@
+*
+{
+  box-sizing: border-box;
+}
+
+body, html
+{
+  padding: 0;
+  margin: 0;
+}
+
+.heading
+{
+  background-color: #000000;
+  font-family: sans-serif;
+  height: 250px;
+  color: #ffffa8;
+  padding: 15px;
+  font-size: 24px;
+  align-items: center;
+  text-align: center;
+}
+
+.body
+{
+  background-color: #818c95;
+}
+
+.leftLeftContentColumn, .leftContentColumn, .rightContentColumn, .rightRightContentColumn
+{
+  /*background-color: #dadb0d;*/
+  font-size: 18px;
+  width: 25%;
+  display: inline-block;
+  text-align: center;
+}
+
+.leftSephirahColumn, .centerSephirahColumn, .rightSephirahColumn
+{
+  /*background-color: #dadb0d;*/
+  font-size: 18px;
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+}
+
+.logoBox
+{
+  position: fixed;
+  top: 25px;
+  right: 25px;
+  background-color: #000;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 35px;
+  color: #fff;
+  text-align: center;
+}
+
+
+
+
+
+.heroSection2
+{
+  background-color: #FF0000;
+  height: 250px;
+  color: #FFFFFF;
+  padding: 36px;
+  font-size: 36px;
+  /*background-size: cover;*/
+  align-items: center;
+  text-align: center;
+}
+
+.contentContainer
+{
+  padding: 50px;
+  text-align: center;
+  justify-content: center;
+}
+
+.contentContainer2
+{
+  padding: 50px;
+  text-align: center;
+  justify-content: center;
+}
+
+.contentContainer3
+{
+  padding: 50px;
+  text-align: center;
+  justify-content: center;
+}
+
+h1
+{
+  font-size: 48px;
+  color: #ffffa8;
+}
+
+h3
+{
+  text-align: left;
+}
+
+h4
+{
+  text-align: left;
+  justify-content: center;
+}
+
+h5
+{
+  border-bottom: 2px solid black;
+  padding-bottom: 15px;
+  text-align: center;
+  justify-content: center;
+}
+
+.thumbnailContainer
+{
+  width: 100%;
+  justify-content: center;
+}
+
+
+.thumb
+{
+  width: 33.3%;
+}
+
+.twoUpContainer
+{
+  /*background-color: #ff0072;*/
+  display: flex;
+  width: 100%;
+}
+
+.footer
+{
+  text-align: center;
+  font-size: 12px;
+}
+
+.kublerRoss
+{
+  width: 20%;
+}
+
+.sephirah
+{
+  width: 33%;
+}
